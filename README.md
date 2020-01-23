@@ -1,3 +1,5 @@
+https://medium.com/@pradeep_thomas/springboot-and-horizontally-scaling-microservices-61507ba0ae0c
+
 Proxy requests to other REST APIs by passing the
 
 X-DEST header
